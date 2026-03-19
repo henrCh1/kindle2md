@@ -1,5 +1,7 @@
 # Kindle to Markdown
 
+[![中文](https://img.shields.io/badge/语言-中文-red)](./README_CN.md) [![English](https://img.shields.io/badge/Language-English-blue)](./README.md)
+
 Convert Kindle HTML notebook exports to Markdown format with Obsidian-compatible frontmatter.
 
 ## Features
